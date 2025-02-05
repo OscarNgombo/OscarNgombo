@@ -48,10 +48,10 @@ Welcome to my GitHub profile! I'm a passionate data analyst with 3 years of expe
   - Developed a mobile app to facilitate Data collection 
 
 ## 📫 How to Reach Me
-- **Portfolio**: https://oscarngombo.com
-- **Email**: oscarngombo@gmail.com
-- **LinkedIn**: Oscar Ngombo
-- **Twitter**: @OscarTinga
+- **Portfolio**: [Oscar Ngombo](https://oscarngombo.com)
+- **Email**: <oscarngombo@gmail.com>
+- **LinkedIn**: [Oscar Ngombo](https://www.linkedin.com/in/oscar-ngombo/)
+- **X**: [@OscarTinga](https://x.com/OscarTinga)
 
 ## ⚡ Fun Fact
 - I love solving puzzles and playing chess in my free time!

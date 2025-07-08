@@ -1,29 +1,30 @@
 # Hi there, I'm Oscar Ngombo 👋
 
-Welcome to my GitHub profile! I'm a passionate data analyst with 3 years of experience and enthusiastic about software development. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a passionate individual with 3 years of experience as a data analyst and 1 year as a software developer. <br> **Here's a bit more about me:**
 
-## 🛠 Skills
-- **Data Analysis**: Python, R, SQL, Excel
+## 🛠 **Skills**
+- **Data Analysis**: Python, SQL, Excel
 - **Data Visualization**: Power BI, Matplotlib, Seaborn, Stata
-- **Software Development**: Python, Flutter SDK, TypeScript, JavaScript, HTML, CSS
-- **Frameworks**: Django, Angular
+- **Software Development**: Python, Flutter SDK, Java, TypeScript, JavaScript, HTML, CSS
+- **Frameworks**: Django, Angular, React
 
 ## 🔭 I’m currently working on
-- Flutter Mobile app called Attendance
+- Flutter Mobile app called Attendance and MBA
+- Backend Development using Java and Postgress (Relational Database)
 - Web scraping tools utilizing scrappy and beautiful soup
 
 ## 🌱 Currently Learning
 - Advanced Machine Learning techniques
-- Full-stack web development with Angular and Django
+- Full-stack web development with React, Flutter and Java
 
 
 ## 👯 I’m looking to collaborate on
 - Flutter projects
-- Full stack development using Django and Angular
+- Full stack development using Django | Java and Angular | React
 - Data Science Projects
 
 ## 🤔 I’m looking for help with
-1. Finding my first role as a Software Developer in my tech stack
+1. Finding a role as a Software Developer within my tech stack
              <br>OR
 2. Data Analytics role
 
@@ -31,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with 3 years of expe
 - Software Development
 - Data Analytics
 - Policy making and effective leadership
-- Sports (Basketball and Football)
+- Sports (Basketball(Lakers) and Football(Manchester United))
 
 ## 💼 Professional Experience
 - **Labour Market Research Analyst** at the Directorate of Labour Markets Research and Analysis (6 months)

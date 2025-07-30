@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate individual with 3 years of experi
 ## 🛠 **Skills**
 - **Data Analysis**: Python, SQL, Excel
 - **Data Visualization**: Power BI, Matplotlib, Seaborn, Stata
-- **Software Development**: Python, Flutter SDK, Java, TypeScript, JavaScript, HTML, CSS
+- **Software Development**: Python, Flutter, Java, C++ TypeScript, JavaScript, HTML, CSS
 - **Frameworks**: Django, Angular, React
 
 ## 🔭 I’m currently working on

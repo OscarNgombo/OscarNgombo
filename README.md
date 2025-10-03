@@ -4,14 +4,14 @@ Welcome to my GitHub profile! I'm a passionate individual with 3 years of experi
 
 ## 🛠 **Skills**
 - **Data Analysis**: Python, SQL, Excel
-- **Data Visualization**: Power BI, Matplotlib, Seaborn, Stata
+- **Data Visualisation**: Power BI, Matplotlib, Seaborn, Stata
 - **Software Development**: Python, Flutter, Java, C++ TypeScript, JavaScript, HTML, CSS
 - **Frameworks**: Django, Angular, React
 
 ## 🔭 I’m currently working on
 - Flutter Mobile app called Attendance and MBA
-- Backend Development using Java and Postgress (Relational Database)
-- Web scraping tools utilizing scrappy and beautiful soup
+- Backend Development using Java and Postgres (Relational Database)
+- Web scraping tools utilising Scrapy and beautiful soup
 
 ## 🌱 Currently Learning
 - Advanced Machine Learning techniques
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate individual with 3 years of experi
 
 ## 👯 I’m looking to collaborate on
 - Flutter projects
-- Full stack development using Django | Java and Angular | React
+- Full-stack development using Django | Java, and Flutter for mobile | React
 - Data Science Projects
 
 ## 🤔 I’m looking for help with
@@ -37,14 +37,14 @@ Welcome to my GitHub profile! I'm a passionate individual with 3 years of experi
 ## 💼 Professional Experience
 - **Labour Market Research Analyst** at the Directorate of Labour Markets Research and Analysis (6 months)
   - Conducted data mining and data warehousing
-  - Analyzed and interpreted complex data sets to drive business decisions
+  - Analysed and interpreted complex data sets to drive business decisions
   - Coded datasets to industrial standards using predefined ETL approaches
-  - Developed interactive dashboards and reports to visualize key metrics
+  - Developed interactive dashboards and reports to visualise key metrics
   - Collaborated with cross-functional teams to implement data-driven solutions
   
 - **Data Analyst** at Mombasa Water Supply and Sanitation Company Ltd (3 years)
-  - Analyzed and interpreted complex data sets to drive business decisions
-  - Developed interactive dashboards and reports to visualize key metrics
+  - Analysed and interpreted complex data sets to drive business decisions
+  - Developed interactive dashboards and reports to visualise key metrics
   - Collaborated with cross-functional teams to implement data-driven solutions
   - Developed a mobile app to facilitate Data collection 
 

@@ -77,9 +77,9 @@ Reduced manual monitoring overhead by 80%. 99.9% data reliability.
 
 ## 📈 GitHub Stats
 
-![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OscarNgombo&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarNgombo&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=OscarNgombo&theme=dark&hide_border=true)
+[![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=OscarNgombo&theme=dark&hide=stars%2Cforks&border_width=0&revert=true&hide_border=true&hide_stroke=true&disabled_animations=true)](https://bit.ly/gh-readme-profile)
+
+![GitHub Stats](https://streak-stats.demolab.com?user=OscarNgombo&theme=dark&hide_border=true)
 
 ---
 
